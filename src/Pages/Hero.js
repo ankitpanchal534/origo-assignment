@@ -18,7 +18,7 @@ export default function Hero() {
                     <Typography
                         sx={{
                             color: { lg: '#ffdbb0', sm: '#ffdbb0', md: '#ffdbb0', xs: '#56112e' },
-                            fontSize: '13vh',
+                            fontSize: '12vh',
                             marginTop: { lg: 0, sm: -5, md: 5, xs: 5 }
 
                         }}
